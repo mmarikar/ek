@@ -7,7 +7,7 @@
 %Mo Marikar
 %July 16, 2018
 %Added checks for unimplemented routes of exposure for BDCM
-
+% July 19, 2018. P Langley Git additions
 %===============================================================================
 
 %INITIAL
